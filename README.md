@@ -1,6 +1,4 @@
-# 
-
-Example Java data structures
+# Example Java data structures
 
 ## Description
 
