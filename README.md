@@ -10,7 +10,7 @@ These 10 java files were created as a part of the CISC 231 (Data Structures) cur
 
 ### Dependencies
 
-* This program should run on any IDE that supports Java, Intellij Idea Ultimate was used for their creation
+* These programs should run on any IDE that supports Java, Intellij Idea Ultimate was used for their creation
 
 ### Installing
 
